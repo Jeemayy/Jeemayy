@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jeemayy
-- 👀 My expert on statistics
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Statistician
+- 👀 I'm a Data Analytics and Data Science Enthusiast
+- 🌱 Python, RStudio, Rshiny, Minitab, SPSS, Spreadsheets, Power BI, Tableu, Looker
 - 📫 I am Ambi(ver)tion
 
 <!---
